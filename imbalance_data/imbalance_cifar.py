@@ -1,5 +1,3 @@
-# original code: https://github.com/kaidic/LDAM-DRW/blob/master/imbalance_cifar.py
-# We add applying transforms with two different augmentation.
 import torch
 import torchvision
 import torchvision.transforms as transforms
