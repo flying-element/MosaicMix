@@ -1,4 +1,3 @@
-# original code: https://github.com/naver-ai/cmo/blob/main/cifar_train.py
 import random
 import time
 import numpy as np
