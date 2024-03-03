@@ -1,6 +1,3 @@
-# original code: https://github.com/frank-xwang/RIDE-LongTailRecognition/blob/main/data_loader/imagenet_lt_data_loaders.py
-
-
 import os
 import torch
 from torch.utils.data import DataLoader, Dataset
